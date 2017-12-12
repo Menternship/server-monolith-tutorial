@@ -16,10 +16,6 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-stage-0": "^6.24.1",
-    "dotenv": "^4.0.0",
-    "flow-bin": "^0.61.0",
-    "menternship-utils-hapi": "^1.0.12",
-    "node-pg-migrate": "^2.14.0",
-    "rejoice": "^4.0.0"
+    "flow-bin": "^0.61.0"
   }
 }
