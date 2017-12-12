@@ -4,8 +4,6 @@
   "description": "A tutorial for working on the server-monolith application",
   "main": "index.js",
   "scripts": {
-    "migrate": "node-pg-migrate",
-    "start-dev-server": "NODE_ENV=development node -r dotenv/config -r babel-core/register node_modules/.bin/rejoice -p ./ -c ./src/manifest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
