@@ -23,15 +23,6 @@ module.exports = {
       port: '$env.PORT',
     },
   ],
-  /*
-  registrations: [
-    {
-      plugin: {
-        register: __dirname,
-      },
-    },
-  ],
-  */
 };
 ```
 
