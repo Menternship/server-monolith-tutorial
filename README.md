@@ -1,6 +1,6 @@
 # Welcome to the server-monolith tutorial
 
-In this tutorial we are going to create a simple backend api that allows us to create, edit, and delete blog posts using the hapijs framework and the menternship-utils-hapi package
+In this tutorial we are going to create a simple backend api that allows us to create, edit, and delete blog posts using the hapijs framework and the menternship-utils-hapi package. To see the finished project, just checkout the finished branch.
 
 ## Initialize Project
 
